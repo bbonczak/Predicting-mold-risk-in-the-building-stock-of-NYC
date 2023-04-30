@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # MacOS
-./DS_Store
+.DS_Store
 
 # Big Data
 ./data/big_data
