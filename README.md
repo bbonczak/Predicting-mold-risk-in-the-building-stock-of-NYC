@@ -1,5 +1,5 @@
-# Machine Learning for Cities - Final Project
-## Topc: TBD
+# Predicting mold risk in the building stock of NYC and its impact on the incidence of respiratory illnesses  
+### Final Project: Machine Learning for Cities
 ### NYU Tandon School of Engineering
 ### Spring 2023
 
